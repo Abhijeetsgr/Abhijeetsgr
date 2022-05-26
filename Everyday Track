@@ -7,13 +7,21 @@ Day 7: 25th April
                 Its properties
                 Types
                 Passing Arguments
+                Questions
+                        write 2 functions - 1 to print "Hello" and second to print "goodbye"
+                        A function that prints "Namaste" if user is Indian and "Bonjour" if user is French
+                        Sum of a + b
+                
 Day 8: 26th April
-                Q - Print table n
                 Arguments VS Parameters
                 Function NOTE
-Recursion
+                Questions
+                        Print table of n given by user
+                        GST
+                        Use library function to calculate the square of a number given by user
+                        Find area of square, circle and rectangle
+        Recursion:
                 Method learning
                 Qestions
                         Print Hello 5 times using recursion
                         Sum of n natural numbers
-                        
