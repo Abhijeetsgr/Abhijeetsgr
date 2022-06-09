@@ -79,3 +79,12 @@ Day 19: 8th June
                         Print value of I from its pointer to pointer
                         Square of number using both call by value and call by reference
                         Swap 2 numbers a and b using both call by value and call by reference.
+Day 20: 9th June
+        Arrays
+                Input and Output
+                Initialization of Array
+                Pointer Arithmetic
+                Questions
+                        A function to calculate the sum, product and average of 2 numbers. Print that average in main function.
+                        A program to find maximum number between two numbers using a pointer.
+                        A program to enter price of 3 items and print their final cost with GST.
