@@ -122,3 +122,5 @@ Day 23: 13th June
                         Salting
                                 Find the salted form of a password entered by user if the salt is "123" and added at the end.
                         A function named slice, which takes a string and return a sliced string from index n to m.
+
+14th June: Been into something else.
