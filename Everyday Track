@@ -124,3 +124,13 @@ Day 23: 13th June
                         A function named slice, which takes a string and return a sliced string from index n to m.
 
 14th June: Been into something else.
+
+Day 24: 15th June
+        Structures
+                2 different data types: pre-defined or library data type and User defined
+                Structure in memory
+                Array of Structure
+                Questions
+                        A function to count the occurence of vowels in a string
+                        Check if a given character is present in a string or not.
+                        A program to store the data of 3 students.
