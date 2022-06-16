@@ -134,3 +134,16 @@ Day 24: 15th June
                         A function to count the occurence of vowels in a string
                         Check if a given character is present in a string or not.
                         A program to store the data of 3 students.
+Day 25: 17th June
+                Initialization of Structure
+                Pointers to structure
+                Arrow Operator
+                Passing structure to function
+                typedef keyword
+                Questions
+                        Enter address (house no, block, city, state) of 5 people
+                        A structure to store vectors. Then make a function to return sum of 2 vectors.
+                        A structure to store complex numbers using arrow operator
+                        You have to store the marks of 30 students in class. what will you use?
+                                Array of 10 floats (1)
+                                Structure
