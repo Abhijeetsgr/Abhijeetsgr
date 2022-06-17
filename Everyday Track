@@ -1,5 +1,7 @@
 My motive is to learn Java. So, from scratch I choose to learn C language first, then C++ for OOPS then java. 
 My deadline to complete learning of C language is 7th of June (my birthday) as it become 20 days of learning.
+Ok can't keep up with my deadline but, this time at 20th June i will definitely complete the learning of C and start normal comp coding using C.
+
 I Started learning C language from 18th April 2022 
 Day 7: 25th April
         How to create GitHub Profile
@@ -134,7 +136,7 @@ Day 24: 15th June
                         A function to count the occurence of vowels in a string
                         Check if a given character is present in a string or not.
                         A program to store the data of 3 students.
-Day 25: 17th June
+Day 25: 16th June
                 Initialization of Structure
                 Pointers to structure
                 Arrow Operator
@@ -147,3 +149,16 @@ Day 25: 17th June
                         You have to store the marks of 30 students in class. what will you use?
                                 Array of 10 floats (1)
                                 Structure
+Day 26: 17th June
+        File input output
+                Operation on file
+                Types of file
+                How to access file
+                Reading from a file
+                writing from a file
+                Read and write a character: fgetc(fptr) and fputc(fptr)
+                EOF - End of File
+                Questions
+                        A program to input student information from a user and enter it to a file.
+                        A program to write all odd numbers from 1 to n in a file
+                        2 numbers a and b are written in file. write a program to replace them with their sum.
