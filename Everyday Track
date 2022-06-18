@@ -1,6 +1,7 @@
 My motive is to learn Java. So, from scratch I choose to learn C language first, then C++ for OOPS then java. 
 My deadline to complete learning of C language is 7th of June (my birthday) as it become 20 days of learning.
 Ok can't keep up with my deadline but, this time at 20th June i will definitely complete the learning of C and start normal comp coding using C.
+(COMPLETED) Scroll down till end to know when i completed this course.
 
 I Started learning C language from 18th April 2022 
 Day 7: 25th April
@@ -162,3 +163,28 @@ Day 26: 17th June
                         A program to input student information from a user and enter it to a file.
                         A program to write all odd numbers from 1 to n in a file
                         2 numbers a and b are written in file. write a program to replace them with their sum.
+Day 27: 18th June
+        Dynamic Memory Allocation
+                Functions in DMA
+                        malloc()
+                        calloc()
+                        free()
+                        realloc()
+                Questions
+                        A program to allocate memory to store 5 prices
+                        A program to allocate memory of size n, where n is entered by the user
+                        Free the memory allocated with calloc or malloc.
+                        Alloate memory for 5 numbers then dynamically increase it to 8 numbers.
+                        Create an array of size 5 (using calloc) and enter its value from the user.
+                        Allocate memory to store first 5 odd numbers, then reallocate it to store first 6 even numbers.
+                        
+18th May 2022 - 18th June 2022 = It took me almost a month of 30 days to complete this course. Not entirely 30 days as few days i wasn't learning 
+and already mentioned in this repository note.
+Link from where I was learning: https://www.youtube.com/watch?v=irqbmMNs2Bo&list=PLc4t1vRMEeODRJB56oA7Jxp3HZVmgQbWy&index=62&t=749s
+
+Its time for me to do some revision and competitve coding for better grip in this language after only then i will start learning C++ just for the sake of OOPS
+concept and then will learn JAVA as this language is my Goal!
+
+I will create another repository for another learnings and also I need to learn more about this GitHub.
+
+THANK YOU IF YOU ARE READING THIS AND HAVE A NICE FUTURE AHEAD!
