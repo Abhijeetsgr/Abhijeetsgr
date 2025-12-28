@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 -->
 - 👋 Hi, I’m Abhijeet Sagar and I am from Delhi, India.
 - 👀 I’m here to update my learning journey.
-- 🌱 I want to be a Software Developer. 
+- 🌱 I want to be a Software Developer.
+- Currently, I am learning DSA C++ and assuming to complete by July 2026.
