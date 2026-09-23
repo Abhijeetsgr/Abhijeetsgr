@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 -->
 - 👋 Hi, I’m Abhijeet Sagar and I am from Delhi, India.
 - 👀 I’m here to update my learning journey.
-- 🌱 I want to be a Software Developer.
-- Currently, I am learning DSA C++ and assuming to complete by July 2026.
+- Currently, I am working on building a full-stack website from scratch.
+- Tech Stacks: HTML • CSS • JavaScript • Java • Spring Boot • MySQL
+- IDE: VSCode and MySQL
